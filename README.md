@@ -16,7 +16,7 @@ API Integration for Exchange Rates
 And more…
 Check out the live version of this project or explore the code to understand how it works.
 
-Visit Our Website
+Visit this Website
 For more details and access to the live app & game, visit:
 https://apkbox07.com/
 
