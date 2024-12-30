@@ -18,7 +18,7 @@ Check out the live version of this project or explore the code to understand how
 
 Visit Our Website
 For more details and access to the live app & game, visit:
-Apkbox07.com
+https://apkbox07.com/
 
 Getting Started:
 To get started with this project on your local machine:
